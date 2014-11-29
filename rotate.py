@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 # Script for auto rotation of tablet PC
 # Modified to work based on majority rule
